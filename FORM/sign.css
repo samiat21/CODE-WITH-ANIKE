@@ -1,0 +1,32 @@
+#newform {
+  background-image: url("nature.jpg");
+  background-size: cover;
+  text-align: center;
+  font-size: 28;
+}
+.form {
+  background-color: rgba(0, 50, 30, 0.8);
+  margin: 400px;
+  margin-top: 20px;
+}
+input {
+  border: none;
+  background: transparent;
+  font-size: 26;
+  border-bottom: 2px solid white;
+  padding: 20px;
+  text-align: center;
+}
+button {
+  background-color: white;
+  height: 50px;
+  width: 150px;
+  font-size: 22;
+  border-radius: 30px;
+}
+a {
+  color: gold;
+}
+h1 {
+  color: gold;
+}

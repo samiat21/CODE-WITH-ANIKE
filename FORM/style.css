@@ -1,0 +1,32 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 48;
+}
+form {
+  background-color: black;
+  opacity: 70%;
+  margin: 300px;
+  padding: 10px;
+  margin-top: 30px;
+  text-align: center;
+  color: blue;
+}
+body {
+  background-color: coral;
+  background-image: url("BEANS.png");
+  background-size: cover;
+}
+input {
+  border: none;
+  border-bottom: 2px solid coral;
+  background: transparent;
+  color: coral;
+}
+button {
+  background-color: blue;
+  width: 70px;
+  height: 40px;
+  color: white;
+  border-radius: 30px;
+}

@@ -1,0 +1,23 @@
+#unilag {
+  background-image: url("IT.jpg");
+  background-size: cover;
+}
+.form {
+  background-color: rgba(10, 94, 172, 0.8);
+  margin: 400px;
+  text-align: center;
+  padding: 50px;
+  margin-top: 0px;
+}
+h1 {
+  color: white;
+}
+.checkbox {
+  color: white;
+}
+button {
+  background-color: rgba(10, 94, 172, 0.8);
+  color: white;
+  width: 50px;
+  height: 30px;
+}
